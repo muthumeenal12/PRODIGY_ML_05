@@ -15,8 +15,8 @@ This repository contains the implementation of a machine learning model for reco
 ## Files in the Repository
 
 - **food_recognition_model.ipynb**: Jupyter Notebook containing the Python code for training and evaluating the food recognition and calorie estimation model.
-- **dataset/**: Directory containing the dataset of food images.
-- **requirements.txt**: List of required Python packages for running the model.
+- **dataset/**: Directory containing the dataset of food images, from kaggle
+- **requirements.txt**: List of required Python packages for running the model(in the README file)
 - **README.md**: This file, providing an overview of the repository and instructions for running the code.
 
 ## Instructions for Use
